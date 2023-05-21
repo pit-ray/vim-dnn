@@ -1,3 +1,0 @@
-[submodule "autoload/autograd"]
-	path = autoload/autograd
-	url = git@github.com:pit-ray/vim-autograd.git
