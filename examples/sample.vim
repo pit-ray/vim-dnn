@@ -1,17 +1,3 @@
-# vim-dnn
-
-## Dependencies
-
-- [vim-autograd](https://github.com/pit-ray/vim-autograd)
-
-```vim
-Plug 'pit-ray/vim-autograd', {'branch': 'vim9'}
-```
-
-
-## Usage
-
-```vim
 vim9script
 
 import autoload 'autograd.vim' as ag
@@ -55,4 +41,3 @@ enddef
 
 
 Main()
-```
